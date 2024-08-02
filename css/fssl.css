@@ -1,0 +1,466 @@
+.mock_table, .mock_table_hover, .mock_meets_standings, .mock_meets_scores, .mock_team_scores, .mock_team_top_ten, .mock_meet_results {
+  background-color: lightgray;
+  color: darkblue;
+  font-size: 15px;
+  border-collapse: collapse; }
+
+.mock_table_hover td:hover, .mock_meets_standings td:hover, .mock_meets_scores td:hover, .mock_team_scores td:hover {
+  background-color: yellow;
+  cursor: pointer; }
+.mock_table_hover tr:hover, .mock_meets_standings tr:hover, .mock_meets_scores tr:hover, .mock_team_scores tr:hover {
+  background-color: yellow;
+  cursor: pointer; }
+
+.mock_row, tr.win_odd, tr.win_even, tr.loss_odd, tr.loss_even, tr.tie_odd, tr.tie_even, td.win_odd, td.win_even, td.loss_odd, td.loss_even, td.tie_odd, td.tie_even {
+  font-size: 15px;
+  height: 12px; }
+
+tr.win_odd {
+  background-color: #8FBC8F; }
+
+tr.win_even {
+  background-color: #90EE90; }
+
+tr.loss_odd {
+  background-color: e26e6e; }
+
+tr.loss_even {
+  background-color: #f20056; }
+
+tr.tie_odd {
+  background-color: lightyellow; }
+
+tr.tie_even {
+  background-color: lightyellow; }
+
+tr.last {
+  height: 12px;
+  border-bottom: 20px solid lightgray; }
+
+tr.win_odd {
+  background-color: #8FBC8F; }
+
+tr.win_even {
+  background-color: #90EE90; }
+
+tr.loss_odd {
+  background-color: e26e6e; }
+
+tr.loss_even {
+  background-color: #f20056; }
+
+tr.tie_odd {
+  background-color: lightyellow; }
+
+tr.tie_even {
+  background-color: lightyellow; }
+
+tr.last {
+  height: 12px;
+  border-bottom: 20px solid lightgray; }
+
+td.win_odd {
+  background-color: #8FBC8F; }
+
+td.win_even {
+  background-color: #90EE90; }
+
+td.loss_odd {
+  background-color: e26e6e; }
+
+td.loss_even {
+  background-color: #f20056; }
+
+td.tie_odd {
+  background-color: lightyellow; }
+
+td.tie_even {
+  background-color: lightyellow; }
+
+td.last {
+  height: 12px;
+  border-bottom: 20px solid lightgray; }
+
+.top_time {
+  border-collapse: collapse;
+  font-size: 12px;
+  background-color: lightgray;
+  color: darkblue; }
+
+.top_time_event {
+  border-collapse: collapse;
+  font-size: 16px;
+  color: darkblue;
+  text-align: center;
+  background-color: #ffffff; }
+
+.top_time_event {
+  border-collapse: collapse;
+  font-size: 18px; }
+
+.top_time_table_sep {
+  border-left: 1px solid black; }
+
+.top_time tbody tr td.col0 {
+  font-size: 12px;
+  text-align: right; }
+
+.top_time tbody tr td.col1 {
+  font-size: 10px; }
+
+.top_time tbody tr td.col2 {
+  font-size: 8px; }
+
+.top_time tbody tr td.col3 {
+  font-size: 15px; }
+
+.top_time tbody tr td.col4 {
+  font-size: 8px; }
+
+.top_time tbody tr td.col5 {
+  padding-right: 2%;
+  text-align: right;
+  width: 40%;
+  font-size: 15px;
+  border-right: 1px solid darkblue; }
+
+.top_time tbody tr td.col6 {
+  padding-left: 2%;
+  text-align: left;
+  width: 40%;
+  font-size: 15px; }
+
+.top_time tbody tr td.col7 {
+  font-size: 8px; }
+
+.top_time tbody tr td.col8 {
+  font-size: 15px; }
+
+.top_time tbody tr td.col9 {
+  font-size: 8px; }
+
+.top_time tbody tr td.col10 {
+  font-size: 10px; }
+
+.top_time tbody tr td.col11 {
+  font-size: 12px; }
+
+.breaker_row0 {
+  background-color: #8FBC8F; }
+
+.breaker_row1 {
+  background-color: #90EE90; }
+
+.top_time_breaker_row_0 {
+  background-color: #8FBC8F; }
+
+.top_time_breaker_row_1 {
+  background-color: #90EE90; }
+
+#record_canvas {
+  max-height: 100%;
+  max-width: 100%; }
+
+.records {
+  border-collapse: collapse;
+  font-size: 13px;
+  background-color: lightgray;
+  Color: darkblue; }
+
+.records tr th {
+  border: 1px solid #000000; }
+
+.records tbody tr td {
+  border-collapse: collapse;
+  border: 1px solid black;
+  font-size: 20px; }
+
+.records tbody tr td {
+  font-size: 20px;
+  border: 0px; }
+
+.records tbody tr {
+  border: 1px solid #000000; }
+
+/*
+.records thead tr.row3{font-size:25px; padding:2px;border:0px;}
+.records thead tr th.col0{border:0px; font-size:20px;text-align:center;}
+.records tbody tr td.col0{text-align:left;border-right:1px solid #000000;font-size:20px;}
+.records tbody tr td.col1,
+.records tbody tr td.col2,
+.records tbody tr td.col3,
+.records tbody tr td.col4{text-align:center;border-right:1px solid #000000;}
+*/
+/*
+
+   in fssl.coffee now
+
+.meet tbody tr td.col0{font-size:8px;text-align:right;}    
+.meet tbody tr td.col1{font-size:16px;text-align:right;width:20px;}   
+.meet tbody tr td.col2{font-size:12px;text-align:right;}   
+.meet tbody tr td.col3{font-size:18px;text-align:left;}  
+.meet tbody tr td.col4{font-size:14px;}
+.meet tbody tr td.col5{font-size:14px;}
+.meet tbody tr td.col6{font-size:10px;}
+*/
+.mdb_table {
+  background-color: lightgray;
+  color: darkblue;
+  font-size: 12px;
+  border-collapse: collapse; }
+
+.mdb_row_1 {
+  font-size: 12px;
+  background-color: #F0F0F0; }
+
+.mdb_row_2 {
+  font-size: 12px;
+  background-color: #FFFFCC; }
+
+.stats {
+  border-collapse: collapse;
+  border: 0px;
+  padding: 10px;
+  font-size: 12px; }
+
+top_stats_row_0 td {
+  background-color: #F0F0F0;
+  border: 0px;
+  padding: 10px; }
+
+tr.stats_row_0 td {
+  background-color: #F0F0F0;
+  border: 0px;
+  padding-bottom: 5px;
+  padding-top: 5px; }
+
+tr.stats_row_1 td {
+  background-color: #FFFFCC;
+  border: 0px;
+  padding-bottom: 5px;
+  padding-top: 5px; }
+
+#score_canvas {
+  max-height: 450px;
+  width: 100%; }
+
+#score_by_age_canvas {
+  max-height: 350px;
+  width: 100%; }
+
+#score_by_stroke_canvas {
+  max-height: 350px;
+  width: 100%; }
+
+.collapse_table {
+  border-collapse: collapse; }
+
+.meet {
+  border-collapse: collapse; }
+
+/*
+  table of meet summaries
+*/
+.team_meet_hdr, .team_meet_year {
+  background-color: lightgray;
+  color: darkblue;
+  border-bottom: 0px;
+  text-align: center; }
+
+.team_meet_score {
+  border-collapse: collapse;
+  padding-bottom: 0px; }
+  .team_meet_score tr:hover {
+    background-color: yellow;
+    cursor: pointer; }
+
+.sidebar_mock_score_table thead tr th,
+.team_meet_table thead tr th,
+.team_meet_table tbody tr th {
+  text-align: center;
+  padding: 2px;
+  color: #ff0000;
+  background: #FF6000 none repeat-x scroll left top; }
+
+.meet_score_table {
+  background-color: lightgray;
+  color: darkblue;
+  font-size: 12px;
+  border-collapse: collapse;
+  border-bottom: 0px;
+  padding-bottom: 5px; }
+
+.meet_score_table tbody tr td {
+  border-collapse: collapse;
+  padding: 10px;
+  border-bottom: 0px; }
+
+.meet_score_year {
+  font-size: 30px;
+  text-align: center; }
+
+.meet_score_week {
+  font-size: 20px;
+  text-align: center; }
+
+.meet_score_hdr {
+  font-size: 15px;
+  text-align: center; }
+
+.mock_meet_table {
+  background-color: lightgray;
+  color: darkblue;
+  font-size: 12px;
+  border-collapse: collapse; }
+
+.meet_team_scores {
+  border-collapse: collapse;
+  border: 0px;
+  font-size: 15px;
+  padding-left: 10px; }
+
+.meet_team_scores tbody tr td,
+.meet_team_scores thead tr td {
+  border-collapse: collapse;
+  border: 0px;
+  font-size: 20px;
+  padding-right: 10px; }
+
+td {
+  border-collapse: collapse;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-top: 0px;
+  padding-bottom: 1px;
+  border-bottom: 0px; }
+
+th {
+  border-collapse: collapse;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-top: 0px;
+  padding-bottom: 1px;
+  border-bottom: 1px; }
+
+.collapse_table {
+  border-collapse: collapse; }
+
+.meet {
+  border-collapse: collapse; }
+
+thead, p.table.header {
+  font-weight: bold;
+  color: #527bbd; }
+
+p.table {
+  margin-top: 0; }
+
+.close {
+  font-size: 15px;
+  background-color: yellow; }
+
+.record_table_column_0, .record_table_column_1, .record_table_column_2,
+.record_table_column_10, .record_table_column_11, .record_table_column_12 {
+  font-size: 10px; }
+
+.row0, .top_time_row_0 {
+  background-color: #F0F0F0;
+  border-collapse: collapse; }
+
+.row1, top_time_row_1 {
+  background-color: #FFFFCC;
+  border-collapse: collapse; }
+
+.year {
+  background-color: #00FF00; }
+
+.sidebar_mock_score_table thead tr th {
+  padding: 3px; }
+
+#score_canvas {
+  max-width: 710px; }
+
+.mock_table, .mock_table_hover, .mock_meets_standings, .mock_meets_scores, .mock_team_scores, .mock_team_top_ten, .mock_meet_results {
+  background-color: lightgray;
+  color: darkblue;
+  font-size: 15px;
+  border-collapse: collapse; }
+
+.mock_table_hover td:hover, .mock_meets_standings td:hover, .mock_meets_scores td:hover, .mock_team_scores td:hover {
+  background-color: yellow;
+  cursor: pointer; }
+.mock_table_hover tr:hover, .mock_meets_standings tr:hover, .mock_meets_scores tr:hover, .mock_team_scores tr:hover {
+  background-color: yellow;
+  cursor: pointer; }
+
+.mock_row, tr.win_odd, tr.win_even, tr.loss_odd, tr.loss_even, tr.tie_odd, tr.tie_even, td.win_odd, td.win_even, td.loss_odd, td.loss_even, td.tie_odd, td.tie_even {
+  font-size: 15px;
+  height: 12px; }
+
+tr.win_odd {
+  background-color: #8FBC8F; }
+
+tr.win_even {
+  background-color: #90EE90; }
+
+tr.loss_odd {
+  background-color: e26e6e; }
+
+tr.loss_even {
+  background-color: #f20056; }
+
+tr.tie_odd {
+  background-color: lightyellow; }
+
+tr.tie_even {
+  background-color: lightyellow; }
+
+tr.last {
+  height: 12px;
+  border-bottom: 20px solid lightgray; }
+
+tr.win_odd {
+  background-color: #8FBC8F; }
+
+tr.win_even {
+  background-color: #90EE90; }
+
+tr.loss_odd {
+  background-color: e26e6e; }
+
+tr.loss_even {
+  background-color: #f20056; }
+
+tr.tie_odd {
+  background-color: lightyellow; }
+
+tr.tie_even {
+  background-color: lightyellow; }
+
+tr.last {
+  height: 12px;
+  border-bottom: 20px solid lightgray; }
+
+td.win_odd {
+  background-color: #8FBC8F; }
+
+td.win_even {
+  background-color: #90EE90; }
+
+td.loss_odd {
+  background-color: e26e6e; }
+
+td.loss_even {
+  background-color: #f20056; }
+
+td.tie_odd {
+  background-color: lightyellow; }
+
+td.tie_even {
+  background-color: lightyellow; }
+
+td.last {
+  height: 12px;
+  border-bottom: 20px solid lightgray; }
+
+/*# sourceMappingURL=fssl.css.map */

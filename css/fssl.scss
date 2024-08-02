@@ -1,0 +1,242 @@
+@import '../../css/mock';
+@import '../../css/top-times';
+@import '../../css/records';
+@import '../../css/mdb';
+@import '../../css/stats';
+@import '../../css/meets';
+
+td {
+  border-collapse:collapse;
+  padding-left       : 1px;
+  padding-right      : 1px;
+  padding-top        : 0px;
+  padding-bottom     : 1px;
+  border-bottom      : 0px;
+}
+
+th {
+  border-collapse:collapse;
+  padding-left       : 1px;
+  padding-right      : 1px;
+  padding-top        : 0px;
+  padding-bottom     : 1px;
+  border-bottom      : 1px;
+}
+
+.collapse_table {
+   border-collapse:collapse;
+}
+
+.meet {
+   border-collapse:collapse;
+}
+
+thead, p.table.header {
+  font-weight: bold;
+  color: #527bbd;
+}
+p.table {
+  margin-top: 0;
+}
+
+.close  {
+  font-size: 15px;
+  background-color: yellow;
+}
+
+.record_table_column_0,.record_table_column_1,.record_table_column_2,
+.record_table_column_10,.record_table_column_11,.record_table_column_12  {font-size:10px;}
+
+
+.row0,.top_time_row_0 {
+    background-color: #F0F0F0;
+    border-collapse:collapse;
+}
+.row1,top_time_row_1 {
+    background-color: #FFFFCC;
+    border-collapse:collapse;
+}
+.year {
+    background-color: #00FF00;
+}
+
+.sidebar_mock_score_table thead tr th {
+    padding: 3px;
+}
+
+
+#score_canvas {
+  max-width:710px;	      
+}
+.mock_table {
+  background-color: lightgray; 
+  color: darkblue; 
+  font-size : 15px;
+  border-collapse:collapse;
+}
+
+.mock_table_hover {
+  @extend .mock_table;
+  td {
+      &:hover {
+	  background-color:yellow;
+	  cursor:pointer;
+      } 
+  }
+  tr {
+      &:hover {
+	  background-color:yellow;
+	  cursor:pointer;
+      } 
+  }
+}
+
+.mock_meets_standings {
+  @extend .mock_table_hover;
+}
+
+.mock_meets_scores {
+  @extend .mock_table_hover;
+}
+
+.mock_team_top_ten {
+  @extend .mock_table;
+}
+
+.mock_team_scores {
+  @extend .mock_table_hover;
+}
+
+.mock_meet_results {
+  @extend .mock_table;
+}
+
+.mock_row {
+  font-size: 15px;
+  height: 12px;
+}
+
+tr.win_odd {
+  @extend .mock_row;
+  background-color: #8FBC8F
+}
+
+tr.win_even {
+  @extend .mock_row;
+  background-color: #90EE90
+}
+
+tr.loss_odd {
+  @extend .mock_row;
+  background-color: e26e6e;
+}
+
+tr.loss_even {
+  @extend .mock_row;
+  background-color: #f20056
+}
+
+tr.tie_odd  {
+  @extend .mock_row;
+  background-color: lightyellow; 
+}
+
+tr.tie_even {
+  @extend .mock_row;
+  background-color: lightyellow; 
+}
+
+tr.last  {
+  height: 12px;
+  border-bottom: 20px solid lightgray; 
+}
+
+tr.win_odd {
+  @extend .mock_row;
+  background-color: #8FBC8F
+}
+
+tr.win_even {
+  @extend .mock_row;
+  background-color: #90EE90
+}
+
+tr.loss_odd {
+  @extend .mock_row;
+  background-color: e26e6e;
+}
+
+tr.loss_even {
+  @extend .mock_row;
+  background-color: #f20056
+}
+
+tr.tie_odd  {
+  @extend .mock_row;
+  background-color: lightyellow; 
+}
+
+tr.tie_even {
+  @extend .mock_row;
+  background-color: lightyellow; 
+}
+
+tr.last  {
+  height: 12px;
+  border-bottom: 20px solid lightgray; 
+}
+
+
+
+
+
+
+td.win_odd {
+  @extend .mock_row;
+  background-color: #8FBC8F
+}
+
+td.win_even {
+  @extend .mock_row;
+  background-color: #90EE90
+}
+
+td.loss_odd {
+  @extend .mock_row;
+  background-color: e26e6e;
+}
+
+td.loss_even {
+  @extend .mock_row;
+  background-color: #f20056
+}
+
+td.tie_odd  {
+  @extend .mock_row;
+  background-color: lightyellow; 
+}
+
+td.tie_even {
+  @extend .mock_row;
+  background-color: lightyellow; 
+}
+
+td.last  {
+  height: 12px;
+  border-bottom: 20px solid lightgray; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
