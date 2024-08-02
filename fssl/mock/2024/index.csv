@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <base href="https://johnagrillo.github.io/rsst/">
-<link rel="stylesheet" href="/css/rsst.css" type="text/css">
+<link rel="stylesheet" href="css/rsst.css" type="text/css">
 </head>
 <body>
 <div>
@@ -348,17 +348,17 @@
 <td class="win_odd_col_4">197.0</td>
 <td class="win_odd_col_5">248.0</td>
 </tr>
-<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-HC-VOUBC.html";'>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-HC-RSST.html";'>
 <td class="win_even_col_1">W</td>
 <td class="win_even_col_2">444.0</td>
-<td class="win_even_col_3">VOUBC</td>
+<td class="win_even_col_3">RSST</td>
 <td class="win_even_col_4">198.0</td>
 <td class="win_even_col_5">246.0</td>
 </tr>
-<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-HC-RSST.html";'>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-HC-VOUBC.html";'>
 <td class="win_odd_col_1">W</td>
 <td class="win_odd_col_2">444.0</td>
-<td class="win_odd_col_3">RSST</td>
+<td class="win_odd_col_3">VOUBC</td>
 <td class="win_odd_col_4">198.0</td>
 <td class="win_odd_col_5">246.0</td>
 </tr>
@@ -658,19 +658,19 @@
 <td class="win_even_col_4">229.0</td>
 <td class="win_even_col_5">180.0</td>
 </tr>
-<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-RSST-LDL.html";'>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-RSST-HHCC.html";'>
 <td class="win_odd_col_1">W</td>
-<td class="win_odd_col_2">404.0</td>
-<td class="win_odd_col_3">LDL</td>
+<td class="win_odd_col_2">390.0</td>
+<td class="win_odd_col_3">HHCC</td>
 <td class="win_odd_col_4">238.0</td>
-<td class="win_odd_col_5">166.0</td>
+<td class="win_odd_col_5">152.0</td>
 </tr>
-<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-RSST-HHCC.html";'>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-RSST-LDL.html";'>
 <td class="win_even_col_1">W</td>
-<td class="win_even_col_2">390.0</td>
-<td class="win_even_col_3">HHCC</td>
+<td class="win_even_col_2">404.0</td>
+<td class="win_even_col_3">LDL</td>
 <td class="win_even_col_4">238.0</td>
-<td class="win_even_col_5">152.0</td>
+<td class="win_even_col_5">166.0</td>
 </tr>
 <tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-RSST-BAR.html";'>
 <td class="win_odd_col_1">W</td>
@@ -874,17 +874,17 @@
 <td class="win_even_col_4">249.0</td>
 <td class="win_even_col_5">142.0</td>
 </tr>
-<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-BAR-RMR.html";'>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-BAR-PVYA.html";'>
 <td class="win_odd_col_1">W</td>
 <td class="win_odd_col_2">383.0</td>
-<td class="win_odd_col_3">RMR</td>
+<td class="win_odd_col_3">PVYA</td>
 <td class="win_odd_col_4">259.0</td>
 <td class="win_odd_col_5">124.0</td>
 </tr>
-<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-BAR-PVYA.html";'>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-BAR-RMR.html";'>
 <td class="win_even_col_1">W</td>
 <td class="win_even_col_2">383.0</td>
-<td class="win_even_col_3">PVYA</td>
+<td class="win_even_col_3">RMR</td>
 <td class="win_even_col_4">259.0</td>
 <td class="win_even_col_5">124.0</td>
 </tr>
@@ -2024,19 +2024,19 @@
 <td class="loss_even_col_4">512.0</td>
 <td class="loss_even_col_5">-431.0</td>
 </tr>
-<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-TR-WRST.html";'>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-TR-VOUBC.html";'>
 <td class="loss_odd_col_1">L</td>
-<td class="loss_odd_col_2">94.0</td>
-<td class="loss_odd_col_3">WRST</td>
+<td class="loss_odd_col_2">36.0</td>
+<td class="loss_odd_col_3">VOUBC</td>
 <td class="loss_odd_col_4">532.0</td>
-<td class="loss_odd_col_5">-438.0</td>
+<td class="loss_odd_col_5">-496.0</td>
 </tr>
-<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-TR-VOUBC.html";'>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-TR-WRST.html";'>
 <td class="loss_even_col_1">L</td>
-<td class="loss_even_col_2">36.0</td>
-<td class="loss_even_col_3">VOUBC</td>
+<td class="loss_even_col_2">94.0</td>
+<td class="loss_even_col_3">WRST</td>
 <td class="loss_even_col_4">532.0</td>
-<td class="loss_even_col_5">-496.0</td>
+<td class="loss_even_col_5">-438.0</td>
 </tr>
 <tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-TR-LDL.html";'>
 <td class="loss_odd_col_1">L</td>
@@ -2115,7 +2115,7 @@
 <div class="clear"></div>
 </div>
 </div>
-<div id="footer">Updated 08/02/2024 @ 14:01:30</div>
+<div id="footer">Updated 08/02/2024 @ 14:06:38</div>
 </div>
 <script src="/js/jquery.min.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script><script src="http://www.preludels.com/prelude-browser-min.js"></script><script>var prelude = require('prelude-ls');</script>
 </body>
