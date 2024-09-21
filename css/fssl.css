@@ -426,10 +426,10 @@ tr.win_even {
   background-color: #90EE90; }
 
 tr.loss_odd {
-  background-color: e26e6e; }
+  background-color: #ff9999; }
 
 tr.loss_even {
-  background-color: #f20056; }
+  background-color: #ffcccc; }
 
 tr.tie_odd {
   background-color: lightyellow; }

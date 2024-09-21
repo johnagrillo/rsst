@@ -1,0 +1,2126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  <base href="https://johnagrillo.github.io/rsst/">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="css/rsst.css" type="text/css">
+</head>
+<body>
+<div>
+<div id="container">
+<div id="header">
+<h1><a href="/index.html"><span id="main_title"></span></a></h1>
+<div class="clear"></div>
+</div>
+<div id="nav"><ul id="navul"></ul></div>
+<div id="body">
+<div id="content">
+<h1>FSSL Mock Meets 2024 Results</h1>
+<table class="mock_meets_standings"><tbody>
+
+<h2>Mouse Over Team to select a Team.
+
+<tr>
+<th></th>
+<th>Team</th>
+<th>W</th>
+<th>L</th>
+<th>T</th>
+</tr>
+<tr onclick='window.location="fssl/mock/2024//mock-WKW-top-times.html";'>
+<td>1</td>
+<td>WKW</td>
+<td>16</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr onclick='window.location="fssl/mock/2024//mock-HC-top-times.html";'>
+<td>2</td>
+<td>HC</td>
+<td>15</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr onclick='window.location="fssl/mock/2024//mock-CH-top-times.html";'>
+<td>3</td>
+<td>CH</td>
+<td>14</td>
+<td>2</td>
+<td>0</td>
+</tr>
+<tr onclick='window.location="fssl/mock/2024//mock-FCY-top-times.html";'>
+<td>4</td>
+<td>FCY</td>
+<td>13</td>
+<td>3</td>
+<td>0</td>
+</tr>
+<tr onclick='window.location="fssl/mock/2024//mock-RSST-top-times.html";'>
+<td>5</td>
+<td>RSST</td>
+<td>12</td>
+<td>4</td>
+<td>0</td>
+</tr>
+<tr onclick='window.location="fssl/mock/2024//mock-LL-top-times.html";'>
+<td>6</td>
+<td>LL</td>
+<td>11</td>
+<td>5</td>
+<td>0</td>
+</tr>
+<tr onclick='window.location="fssl/mock/2024//mock-BAR-top-times.html";'>
+<td>7</td>
+<td>BAR</td>
+<td>9</td>
+<td>7</td>
+<td>0</td>
+</tr>
+<tr onclick='window.location="fssl/mock/2024//mock-SR-top-times.html";'>
+<td>7</td>
+<td>SR</td>
+<td>9</td>
+<td>7</td>
+<td>0</td>
+</tr>
+<tr onclick='window.location="fssl/mock/2024//mock-VOUBC-top-times.html";'>
+<td>7</td>
+<td>VOUBC</td>
+<td>9</td>
+<td>7</td>
+<td>0</td>
+</tr>
+<tr onclick='window.location="fssl/mock/2024//mock-LDL-top-times.html";'>
+<td>10</td>
+<td>LDL</td>
+<td>7</td>
+<td>9</td>
+<td>0</td>
+</tr>
+<tr onclick='window.location="fssl/mock/2024//mock-RMR-top-times.html";'>
+<td>11</td>
+<td>RMR</td>
+<td>6</td>
+<td>10</td>
+<td>0</td>
+</tr>
+<tr onclick='window.location="fssl/mock/2024//mock-DB-top-times.html";'>
+<td>12</td>
+<td>DB</td>
+<td>4</td>
+<td>12</td>
+<td>0</td>
+</tr>
+<tr onclick='window.location="fssl/mock/2024//mock-HHCC-top-times.html";'>
+<td>12</td>
+<td>HHCC</td>
+<td>4</td>
+<td>12</td>
+<td>0</td>
+</tr>
+<tr onclick='window.location="fssl/mock/2024//mock-VOU-top-times.html";'>
+<td>12</td>
+<td>VOU</td>
+<td>4</td>
+<td>12</td>
+<td>0</td>
+</tr>
+<tr onclick='window.location="fssl/mock/2024//mock-PVYA-top-times.html";'>
+<td>15</td>
+<td>PVYA</td>
+<td>2</td>
+<td>14</td>
+<td>0</td>
+</tr>
+<tr onclick='window.location="fssl/mock/2024//mock-WRST-top-times.html";'>
+<td>16</td>
+<td>WRST</td>
+<td>1</td>
+<td>15</td>
+<td>0</td>
+</tr>
+<tr onclick='window.location="fssl/mock/2024//mock-TR-top-times.html";'>
+<td>17</td>
+<td>TR</td>
+<td>0</td>
+<td>16</td>
+<td>0</td>
+</tr>
+</tbody></table>
+<h4>FSSL Mock Meets 2024</h4>
+<span>Mock meet results can be displayed by clicking on a row in the team table.</span><br><table class="mock_meets_scores">
+<thead>
+<th>Home</th>
+<th>W/L</th>
+<th>Points</th>
+<th>Vistor</th>
+<th>Points</th>
+<th>Diff</th>
+</thead>
+<tbody>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-WKW-TR.html";'>
+<td rowspan="16" class="mock_col_0">WKW</td>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">603.0</td>
+<td class="win_odd_col_3">TR</td>
+<td class="win_odd_col_4">33.0</td>
+<td class="win_odd_col_5">570.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-WKW-WRST.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">563.0</td>
+<td class="win_even_col_3">WRST</td>
+<td class="win_even_col_4">78.0</td>
+<td class="win_even_col_5">485.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-WKW-LDL.html";'>
+
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">542.0</td>
+<td class="win_odd_col_3">LDL</td>
+<td class="win_odd_col_4">100.0</td>
+<td class="win_odd_col_5">442.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-WKW-DB.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">529.0</td>
+<td class="win_even_col_3">DB</td>
+<td class="win_even_col_4">109.0</td>
+<td class="win_even_col_5">420.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-WKW-PVYA.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">530.0</td>
+<td class="win_odd_col_3">PVYA</td>
+<td class="win_odd_col_4">112.0</td>
+<td class="win_odd_col_5">418.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-WKW-RMR.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">513.0</td>
+<td class="win_even_col_3">RMR</td>
+<td class="win_even_col_4">129.0</td>
+<td class="win_even_col_5">384.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-WKW-HHCC.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">509.0</td>
+<td class="win_odd_col_3">HHCC</td>
+<td class="win_odd_col_4">133.0</td>
+<td class="win_odd_col_5">376.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-WKW-VOU.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">500.0</td>
+<td class="win_even_col_3">VOU</td>
+<td class="win_even_col_4">141.0</td>
+<td class="win_even_col_5">359.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-WKW-BAR.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">500.0</td>
+<td class="win_odd_col_3">BAR</td>
+<td class="win_odd_col_4">142.0</td>
+<td class="win_odd_col_5">358.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-WKW-RSST.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">490.0</td>
+<td class="win_even_col_3">RSST</td>
+<td class="win_even_col_4">152.0</td>
+<td class="win_even_col_5">338.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-WKW-SR.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">487.0</td>
+<td class="win_odd_col_3">SR</td>
+<td class="win_odd_col_4">153.0</td>
+<td class="win_odd_col_5">334.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-WKW-VOUBC.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">485.0</td>
+<td class="win_even_col_3">VOUBC</td>
+<td class="win_even_col_4">157.0</td>
+<td class="win_even_col_5">328.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-WKW-LL.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">480.0</td>
+<td class="win_odd_col_3">LL</td>
+<td class="win_odd_col_4">158.0</td>
+<td class="win_odd_col_5">322.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-WKW-FCY.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">452.0</td>
+<td class="win_even_col_3">FCY</td>
+<td class="win_even_col_4">190.0</td>
+<td class="win_even_col_5">262.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-WKW-CH.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">421.0</td>
+<td class="win_odd_col_3">CH</td>
+<td class="win_odd_col_4">221.0</td>
+<td class="win_odd_col_5">200.0</td>
+</tr>
+<tr class="win_even last" onclick='window.location="fssl/mock/2024//mock-WKW-HC.html";'>
+<td class="win_even last_col_1">W</td>
+<td class="win_even last_col_2">357.0</td>
+<td class="win_even last_col_3">HC</td>
+<td class="win_even last_col_4">285.0</td>
+<td class="win_even last_col_5">72.0</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-HC-TR.html";'>
+<td rowspan="16" class="mock_col_0">HC</td>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">605.0</td>
+<td class="win_odd_col_3">TR</td>
+<td class="win_odd_col_4">30.0</td>
+<td class="win_odd_col_5">575.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-HC-WRST.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">521.0</td>
+<td class="win_even_col_3">WRST</td>
+<td class="win_even_col_4">121.0</td>
+<td class="win_even_col_5">400.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-HC-BAR.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">503.5</td>
+<td class="win_odd_col_3">BAR</td>
+<td class="win_odd_col_4">137.5</td>
+<td class="win_odd_col_5">366.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-HC-DB.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">497.0</td>
+<td class="win_even_col_3">DB</td>
+<td class="win_even_col_4">144.0</td>
+<td class="win_even_col_5">353.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-HC-LDL.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">493.0</td>
+<td class="win_odd_col_3">LDL</td>
+<td class="win_odd_col_4">149.0</td>
+<td class="win_odd_col_5">344.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-HC-PVYA.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">484.0</td>
+<td class="win_even_col_3">PVYA</td>
+<td class="win_even_col_4">158.0</td>
+<td class="win_even_col_5">326.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-HC-RMR.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">480.0</td>
+<td class="win_odd_col_3">RMR</td>
+<td class="win_odd_col_4">162.0</td>
+<td class="win_odd_col_5">318.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-HC-VOU.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">476.0</td>
+<td class="win_even_col_3">VOU</td>
+<td class="win_even_col_4">166.0</td>
+<td class="win_even_col_5">310.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-HC-HHCC.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">465.0</td>
+<td class="win_odd_col_3">HHCC</td>
+<td class="win_odd_col_4">176.0</td>
+<td class="win_odd_col_5">289.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-HC-LL.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">447.5</td>
+<td class="win_even_col_3">LL</td>
+<td class="win_even_col_4">194.5</td>
+<td class="win_even_col_5">253.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-HC-SR.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">445.0</td>
+<td class="win_odd_col_3">SR</td>
+<td class="win_odd_col_4">197.0</td>
+<td class="win_odd_col_5">248.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-HC-RSST.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">444.0</td>
+<td class="win_even_col_3">RSST</td>
+<td class="win_even_col_4">198.0</td>
+<td class="win_even_col_5">246.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-HC-VOUBC.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">444.0</td>
+<td class="win_odd_col_3">VOUBC</td>
+<td class="win_odd_col_4">198.0</td>
+<td class="win_odd_col_5">246.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-HC-FCY.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">414.0</td>
+<td class="win_even_col_3">FCY</td>
+<td class="win_even_col_4">228.0</td>
+<td class="win_even_col_5">186.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-HC-CH.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">398.5</td>
+<td class="win_odd_col_3">CH</td>
+<td class="win_odd_col_4">243.5</td>
+<td class="win_odd_col_5">155.0</td>
+</tr>
+<tr class="loss_even last" onclick='window.location="fssl/mock/2024//mock-HC-WKW.html";'>
+<td class="loss_even last_col_1">L</td>
+<td class="loss_even last_col_2">285.0</td>
+<td class="loss_even last_col_3">WKW</td>
+<td class="loss_even last_col_4">357.0</td>
+<td class="loss_even last_col_5">-72.0</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-CH-TR.html";'>
+<td rowspan="16" class="mock_col_0">CH</td>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">600.0</td>
+<td class="win_odd_col_3">TR</td>
+<td class="win_odd_col_4">29.0</td>
+<td class="win_odd_col_5">571.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-CH-WRST.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">489.0</td>
+<td class="win_even_col_3">WRST</td>
+<td class="win_even_col_4">152.0</td>
+<td class="win_even_col_5">337.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-CH-DB.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">442.0</td>
+<td class="win_odd_col_3">DB</td>
+<td class="win_odd_col_4">195.0</td>
+<td class="win_odd_col_5">247.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-CH-VOU.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">442.0</td>
+<td class="win_even_col_3">VOU</td>
+<td class="win_even_col_4">196.0</td>
+<td class="win_even_col_5">246.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-CH-PVYA.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">428.5</td>
+<td class="win_odd_col_3">PVYA</td>
+<td class="win_odd_col_4">209.5</td>
+<td class="win_odd_col_5">219.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-CH-HHCC.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">428.0</td>
+<td class="win_even_col_3">HHCC</td>
+<td class="win_even_col_4">213.0</td>
+<td class="win_even_col_5">215.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-CH-RMR.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">412.0</td>
+<td class="win_odd_col_3">RMR</td>
+<td class="win_odd_col_4">230.0</td>
+<td class="win_odd_col_5">182.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-CH-BAR.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">406.0</td>
+<td class="win_even_col_3">BAR</td>
+<td class="win_even_col_4">236.0</td>
+<td class="win_even_col_5">170.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-CH-LDL.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">405.0</td>
+<td class="win_odd_col_3">LDL</td>
+<td class="win_odd_col_4">237.0</td>
+<td class="win_odd_col_5">168.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-CH-LL.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">384.0</td>
+<td class="win_even_col_3">LL</td>
+<td class="win_even_col_4">253.0</td>
+<td class="win_even_col_5">131.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-CH-VOUBC.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">372.0</td>
+<td class="win_odd_col_3">VOUBC</td>
+<td class="win_odd_col_4">270.0</td>
+<td class="win_odd_col_5">102.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-CH-SR.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">369.0</td>
+<td class="win_even_col_3">SR</td>
+<td class="win_even_col_4">271.0</td>
+<td class="win_even_col_5">98.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-CH-RSST.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">353.0</td>
+<td class="win_odd_col_3">RSST</td>
+<td class="win_odd_col_4">288.0</td>
+<td class="win_odd_col_5">65.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-CH-FCY.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">339.0</td>
+<td class="win_even_col_3">FCY</td>
+<td class="win_even_col_4">303.0</td>
+<td class="win_even_col_5">36.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-CH-HC.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">243.5</td>
+<td class="loss_odd_col_3">HC</td>
+<td class="loss_odd_col_4">398.5</td>
+<td class="loss_odd_col_5">-155.0</td>
+</tr>
+<tr class="loss_even last" onclick='window.location="fssl/mock/2024//mock-CH-WKW.html";'>
+<td class="loss_even last_col_1">L</td>
+<td class="loss_even last_col_2">221.0</td>
+<td class="loss_even last_col_3">WKW</td>
+<td class="loss_even last_col_4">421.0</td>
+<td class="loss_even last_col_5">-200.0</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-FCY-TR.html";'>
+<td rowspan="16" class="mock_col_0">FCY</td>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">609.0</td>
+<td class="win_odd_col_3">TR</td>
+<td class="win_odd_col_4">22.0</td>
+<td class="win_odd_col_5">587.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-FCY-WRST.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">526.0</td>
+<td class="win_even_col_3">WRST</td>
+<td class="win_even_col_4">116.0</td>
+<td class="win_even_col_5">410.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-FCY-RMR.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">465.0</td>
+<td class="win_odd_col_3">RMR</td>
+<td class="win_odd_col_4">177.0</td>
+<td class="win_odd_col_5">288.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-FCY-DB.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">456.0</td>
+<td class="win_even_col_3">DB</td>
+<td class="win_even_col_4">186.0</td>
+<td class="win_even_col_5">270.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-FCY-HHCC.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">452.0</td>
+<td class="win_odd_col_3">HHCC</td>
+<td class="win_odd_col_4">189.0</td>
+<td class="win_odd_col_5">263.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-FCY-VOU.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">444.0</td>
+<td class="win_even_col_3">VOU</td>
+<td class="win_even_col_4">195.0</td>
+<td class="win_even_col_5">249.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-FCY-LDL.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">425.0</td>
+<td class="win_odd_col_3">LDL</td>
+<td class="win_odd_col_4">215.0</td>
+<td class="win_odd_col_5">210.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-FCY-PVYA.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">425.0</td>
+<td class="win_even_col_3">PVYA</td>
+<td class="win_even_col_4">216.0</td>
+<td class="win_even_col_5">209.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-FCY-BAR.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">409.0</td>
+<td class="win_odd_col_3">BAR</td>
+<td class="win_odd_col_4">233.0</td>
+<td class="win_odd_col_5">176.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-FCY-SR.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">391.0</td>
+<td class="win_even_col_3">SR</td>
+<td class="win_even_col_4">251.0</td>
+<td class="win_even_col_5">140.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-FCY-VOUBC.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">389.0</td>
+<td class="win_odd_col_3">VOUBC</td>
+<td class="win_odd_col_4">253.0</td>
+<td class="win_odd_col_5">136.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-FCY-LL.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">380.0</td>
+<td class="win_even_col_3">LL</td>
+<td class="win_even_col_4">260.0</td>
+<td class="win_even_col_5">120.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-FCY-RSST.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">362.0</td>
+<td class="win_odd_col_3">RSST</td>
+<td class="win_odd_col_4">280.0</td>
+<td class="win_odd_col_5">82.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-FCY-CH.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">303.0</td>
+<td class="loss_even_col_3">CH</td>
+<td class="loss_even_col_4">339.0</td>
+<td class="loss_even_col_5">-36.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-FCY-HC.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">228.0</td>
+<td class="loss_odd_col_3">HC</td>
+<td class="loss_odd_col_4">414.0</td>
+<td class="loss_odd_col_5">-186.0</td>
+</tr>
+<tr class="loss_even last" onclick='window.location="fssl/mock/2024//mock-FCY-WKW.html";'>
+<td class="loss_even last_col_1">L</td>
+<td class="loss_even last_col_2">190.0</td>
+<td class="loss_even last_col_3">WKW</td>
+<td class="loss_even last_col_4">452.0</td>
+<td class="loss_even last_col_5">-262.0</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-RSST-TR.html";'>
+<td rowspan="16" class="mock_col_0">RSST</td>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">586.0</td>
+<td class="win_odd_col_3">TR</td>
+<td class="win_odd_col_4">37.0</td>
+<td class="win_odd_col_5">549.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-RSST-WRST.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">470.0</td>
+<td class="win_even_col_3">WRST</td>
+<td class="win_even_col_4">171.0</td>
+<td class="win_even_col_5">299.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-RSST-PVYA.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">434.0</td>
+<td class="win_odd_col_3">PVYA</td>
+<td class="win_odd_col_4">198.0</td>
+<td class="win_odd_col_5">236.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-RSST-DB.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">428.0</td>
+<td class="win_even_col_3">DB</td>
+<td class="win_even_col_4">210.0</td>
+<td class="win_even_col_5">218.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-RSST-VOU.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">416.0</td>
+<td class="win_odd_col_3">VOU</td>
+<td class="win_odd_col_4">216.0</td>
+<td class="win_odd_col_5">200.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-RSST-RMR.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">409.0</td>
+<td class="win_even_col_3">RMR</td>
+<td class="win_even_col_4">229.0</td>
+<td class="win_even_col_5">180.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-RSST-HHCC.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">390.0</td>
+<td class="win_odd_col_3">HHCC</td>
+<td class="win_odd_col_4">238.0</td>
+<td class="win_odd_col_5">152.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-RSST-LDL.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">404.0</td>
+<td class="win_even_col_3">LDL</td>
+<td class="win_even_col_4">238.0</td>
+<td class="win_even_col_5">166.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-RSST-BAR.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">403.0</td>
+<td class="win_odd_col_3">BAR</td>
+<td class="win_odd_col_4">239.0</td>
+<td class="win_odd_col_5">164.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-RSST-SR.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">385.0</td>
+<td class="win_even_col_3">SR</td>
+<td class="win_even_col_4">257.0</td>
+<td class="win_even_col_5">128.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-RSST-LL.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">354.0</td>
+<td class="win_odd_col_3">LL</td>
+<td class="win_odd_col_4">287.0</td>
+<td class="win_odd_col_5">67.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-RSST-VOUBC.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">333.0</td>
+<td class="win_even_col_3">VOUBC</td>
+<td class="win_even_col_4">309.0</td>
+<td class="win_even_col_5">24.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-RSST-CH.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">288.0</td>
+<td class="loss_odd_col_3">CH</td>
+<td class="loss_odd_col_4">353.0</td>
+<td class="loss_odd_col_5">-65.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-RSST-FCY.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">280.0</td>
+<td class="loss_even_col_3">FCY</td>
+<td class="loss_even_col_4">362.0</td>
+<td class="loss_even_col_5">-82.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-RSST-HC.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">198.0</td>
+<td class="loss_odd_col_3">HC</td>
+<td class="loss_odd_col_4">444.0</td>
+<td class="loss_odd_col_5">-246.0</td>
+</tr>
+<tr class="loss_even last" onclick='window.location="fssl/mock/2024//mock-RSST-WKW.html";'>
+<td class="loss_even last_col_1">L</td>
+<td class="loss_even last_col_2">152.0</td>
+<td class="loss_even last_col_3">WKW</td>
+<td class="loss_even last_col_4">490.0</td>
+<td class="loss_even last_col_5">-338.0</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-LL-TR.html";'>
+<td rowspan="16" class="mock_col_0">LL</td>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">572.0</td>
+<td class="win_odd_col_3">TR</td>
+<td class="win_odd_col_4">36.0</td>
+<td class="win_odd_col_5">536.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-LL-WRST.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">422.0</td>
+<td class="win_even_col_3">WRST</td>
+<td class="win_even_col_4">216.0</td>
+<td class="win_even_col_5">206.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-LL-VOU.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">415.0</td>
+<td class="win_odd_col_3">VOU</td>
+<td class="win_odd_col_4">218.0</td>
+<td class="win_odd_col_5">197.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-LL-DB.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">396.0</td>
+<td class="win_even_col_3">DB</td>
+<td class="win_even_col_4">230.0</td>
+<td class="win_even_col_5">166.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-LL-RMR.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">402.0</td>
+<td class="win_odd_col_3">RMR</td>
+<td class="win_odd_col_4">238.0</td>
+<td class="win_odd_col_5">164.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-LL-PVYA.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">388.0</td>
+<td class="win_even_col_3">PVYA</td>
+<td class="win_even_col_4">247.0</td>
+<td class="win_even_col_5">141.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-LL-HHCC.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">380.0</td>
+<td class="win_odd_col_3">HHCC</td>
+<td class="win_odd_col_4">258.0</td>
+<td class="win_odd_col_5">122.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-LL-LDL.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">374.0</td>
+<td class="win_even_col_3">LDL</td>
+<td class="win_even_col_4">262.0</td>
+<td class="win_even_col_5">112.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-LL-BAR.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">362.0</td>
+<td class="win_odd_col_3">BAR</td>
+<td class="win_odd_col_4">273.0</td>
+<td class="win_odd_col_5">89.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-LL-SR.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">358.0</td>
+<td class="win_even_col_3">SR</td>
+<td class="win_even_col_4">279.0</td>
+<td class="win_even_col_5">79.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-LL-VOUBC.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">333.5</td>
+<td class="win_odd_col_3">VOUBC</td>
+<td class="win_odd_col_4">308.5</td>
+<td class="win_odd_col_5">25.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-LL-RSST.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">287.0</td>
+<td class="loss_even_col_3">RSST</td>
+<td class="loss_even_col_4">354.0</td>
+<td class="loss_even_col_5">-67.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-LL-FCY.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">260.0</td>
+<td class="loss_odd_col_3">FCY</td>
+<td class="loss_odd_col_4">380.0</td>
+<td class="loss_odd_col_5">-120.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-LL-CH.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">253.0</td>
+<td class="loss_even_col_3">CH</td>
+<td class="loss_even_col_4">384.0</td>
+<td class="loss_even_col_5">-131.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-LL-HC.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">194.5</td>
+<td class="loss_odd_col_3">HC</td>
+<td class="loss_odd_col_4">447.5</td>
+<td class="loss_odd_col_5">-253.0</td>
+</tr>
+<tr class="loss_even last" onclick='window.location="fssl/mock/2024//mock-LL-WKW.html";'>
+<td class="loss_even last_col_1">L</td>
+<td class="loss_even last_col_2">158.0</td>
+<td class="loss_even last_col_3">WKW</td>
+<td class="loss_even last_col_4">480.0</td>
+<td class="loss_even last_col_5">-322.0</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-BAR-TR.html";'>
+<td rowspan="16" class="mock_col_0">BAR</td>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">590.0</td>
+<td class="win_odd_col_3">TR</td>
+<td class="win_odd_col_4">34.0</td>
+<td class="win_odd_col_5">556.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-BAR-WRST.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">434.0</td>
+<td class="win_even_col_3">WRST</td>
+<td class="win_even_col_4">207.0</td>
+<td class="win_even_col_5">227.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-BAR-DB.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">390.0</td>
+<td class="win_odd_col_3">DB</td>
+<td class="win_odd_col_4">247.0</td>
+<td class="win_odd_col_5">143.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-BAR-VOU.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">391.0</td>
+<td class="win_even_col_3">VOU</td>
+<td class="win_even_col_4">249.0</td>
+<td class="win_even_col_5">142.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-BAR-PVYA.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">383.0</td>
+<td class="win_odd_col_3">PVYA</td>
+<td class="win_odd_col_4">259.0</td>
+<td class="win_odd_col_5">124.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-BAR-RMR.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">383.0</td>
+<td class="win_even_col_3">RMR</td>
+<td class="win_even_col_4">259.0</td>
+<td class="win_even_col_5">124.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-BAR-HHCC.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">351.0</td>
+<td class="win_odd_col_3">HHCC</td>
+<td class="win_odd_col_4">290.0</td>
+<td class="win_odd_col_5">61.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-BAR-VOUBC.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">339.0</td>
+<td class="win_even_col_3">VOUBC</td>
+<td class="win_even_col_4">303.0</td>
+<td class="win_even_col_5">36.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-BAR-LDL.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">334.0</td>
+<td class="win_odd_col_3">LDL</td>
+<td class="win_odd_col_4">308.0</td>
+<td class="win_odd_col_5">26.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-BAR-SR.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">294.0</td>
+<td class="loss_even_col_3">SR</td>
+<td class="loss_even_col_4">348.0</td>
+<td class="loss_even_col_5">-54.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-BAR-LL.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">273.0</td>
+<td class="loss_odd_col_3">LL</td>
+<td class="loss_odd_col_4">362.0</td>
+<td class="loss_odd_col_5">-89.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-BAR-RSST.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">239.0</td>
+<td class="loss_even_col_3">RSST</td>
+<td class="loss_even_col_4">403.0</td>
+<td class="loss_even_col_5">-164.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-BAR-CH.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">236.0</td>
+<td class="loss_odd_col_3">CH</td>
+<td class="loss_odd_col_4">406.0</td>
+<td class="loss_odd_col_5">-170.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-BAR-FCY.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">233.0</td>
+<td class="loss_even_col_3">FCY</td>
+<td class="loss_even_col_4">409.0</td>
+<td class="loss_even_col_5">-176.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-BAR-WKW.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">142.0</td>
+<td class="loss_odd_col_3">WKW</td>
+<td class="loss_odd_col_4">500.0</td>
+<td class="loss_odd_col_5">-358.0</td>
+</tr>
+<tr class="loss_even last" onclick='window.location="fssl/mock/2024//mock-BAR-HC.html";'>
+<td class="loss_even last_col_1">L</td>
+<td class="loss_even last_col_2">137.5</td>
+<td class="loss_even last_col_3">HC</td>
+<td class="loss_even last_col_4">503.5</td>
+<td class="loss_even last_col_5">-366.0</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-SR-TR.html";'>
+<td rowspan="16" class="mock_col_0">SR</td>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">557.0</td>
+<td class="win_odd_col_3">TR</td>
+<td class="win_odd_col_4">44.0</td>
+<td class="win_odd_col_5">513.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-SR-WRST.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">433.0</td>
+<td class="win_even_col_3">WRST</td>
+<td class="win_even_col_4">205.0</td>
+<td class="win_even_col_5">228.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-SR-DB.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">379.0</td>
+<td class="win_odd_col_3">DB</td>
+<td class="win_odd_col_4">239.0</td>
+<td class="win_odd_col_5">140.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-SR-VOU.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">371.0</td>
+<td class="win_even_col_3">VOU</td>
+<td class="win_even_col_4">268.0</td>
+<td class="win_even_col_5">103.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-SR-RMR.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">366.0</td>
+<td class="win_odd_col_3">RMR</td>
+<td class="win_odd_col_4">276.0</td>
+<td class="win_odd_col_5">90.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-SR-PVYA.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">349.0</td>
+<td class="win_even_col_3">PVYA</td>
+<td class="win_even_col_4">279.0</td>
+<td class="win_even_col_5">70.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-SR-BAR.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">348.0</td>
+<td class="win_odd_col_3">BAR</td>
+<td class="win_odd_col_4">294.0</td>
+<td class="win_odd_col_5">54.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-SR-HHCC.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">332.0</td>
+<td class="win_even_col_3">HHCC</td>
+<td class="win_even_col_4">305.0</td>
+<td class="win_even_col_5">27.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-SR-LDL.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">323.0</td>
+<td class="win_odd_col_3">LDL</td>
+<td class="win_odd_col_4">315.0</td>
+<td class="win_odd_col_5">8.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-SR-VOUBC.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">292.0</td>
+<td class="loss_even_col_3">VOUBC</td>
+<td class="loss_even_col_4">340.0</td>
+<td class="loss_even_col_5">-48.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-SR-LL.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">279.0</td>
+<td class="loss_odd_col_3">LL</td>
+<td class="loss_odd_col_4">358.0</td>
+<td class="loss_odd_col_5">-79.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-SR-CH.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">271.0</td>
+<td class="loss_even_col_3">CH</td>
+<td class="loss_even_col_4">369.0</td>
+<td class="loss_even_col_5">-98.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-SR-RSST.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">257.0</td>
+<td class="loss_odd_col_3">RSST</td>
+<td class="loss_odd_col_4">385.0</td>
+<td class="loss_odd_col_5">-128.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-SR-FCY.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">251.0</td>
+<td class="loss_even_col_3">FCY</td>
+<td class="loss_even_col_4">391.0</td>
+<td class="loss_even_col_5">-140.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-SR-HC.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">197.0</td>
+<td class="loss_odd_col_3">HC</td>
+<td class="loss_odd_col_4">445.0</td>
+<td class="loss_odd_col_5">-248.0</td>
+</tr>
+<tr class="loss_even last" onclick='window.location="fssl/mock/2024//mock-SR-WKW.html";'>
+<td class="loss_even last_col_1">L</td>
+<td class="loss_even last_col_2">153.0</td>
+<td class="loss_even last_col_3">WKW</td>
+<td class="loss_even last_col_4">487.0</td>
+<td class="loss_even last_col_5">-334.0</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-VOUBC-TR.html";'>
+<td rowspan="16" class="mock_col_0">VOUBC</td>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">532.0</td>
+<td class="win_odd_col_3">TR</td>
+<td class="win_odd_col_4">36.0</td>
+<td class="win_odd_col_5">496.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-VOUBC-WRST.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">421.0</td>
+<td class="win_even_col_3">WRST</td>
+<td class="win_even_col_4">221.0</td>
+<td class="win_even_col_5">200.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-VOUBC-HHCC.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">385.0</td>
+<td class="win_odd_col_3">HHCC</td>
+<td class="win_odd_col_4">254.0</td>
+<td class="win_odd_col_5">131.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-VOUBC-DB.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">360.0</td>
+<td class="win_even_col_3">DB</td>
+<td class="win_even_col_4">272.0</td>
+<td class="win_even_col_5">88.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-VOUBC-PVYA.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">357.0</td>
+<td class="win_odd_col_3">PVYA</td>
+<td class="win_odd_col_4">282.0</td>
+<td class="win_odd_col_5">75.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-VOUBC-VOU.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">348.0</td>
+<td class="win_even_col_3">VOU</td>
+<td class="win_even_col_4">284.0</td>
+<td class="win_even_col_5">64.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-VOUBC-SR.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">340.0</td>
+<td class="win_odd_col_3">SR</td>
+<td class="win_odd_col_4">292.0</td>
+<td class="win_odd_col_5">48.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-VOUBC-RMR.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">346.0</td>
+<td class="win_even_col_3">RMR</td>
+<td class="win_even_col_4">296.0</td>
+<td class="win_even_col_5">50.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-VOUBC-LDL.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">342.0</td>
+<td class="win_odd_col_3">LDL</td>
+<td class="win_odd_col_4">299.0</td>
+<td class="win_odd_col_5">43.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-VOUBC-RSST.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">309.0</td>
+<td class="loss_even_col_3">RSST</td>
+<td class="loss_even_col_4">333.0</td>
+<td class="loss_even_col_5">-24.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-VOUBC-LL.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">308.5</td>
+<td class="loss_odd_col_3">LL</td>
+<td class="loss_odd_col_4">333.5</td>
+<td class="loss_odd_col_5">-25.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-VOUBC-BAR.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">303.0</td>
+<td class="loss_even_col_3">BAR</td>
+<td class="loss_even_col_4">339.0</td>
+<td class="loss_even_col_5">-36.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-VOUBC-CH.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">270.0</td>
+<td class="loss_odd_col_3">CH</td>
+<td class="loss_odd_col_4">372.0</td>
+<td class="loss_odd_col_5">-102.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-VOUBC-FCY.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">253.0</td>
+<td class="loss_even_col_3">FCY</td>
+<td class="loss_even_col_4">389.0</td>
+<td class="loss_even_col_5">-136.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-VOUBC-HC.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">198.0</td>
+<td class="loss_odd_col_3">HC</td>
+<td class="loss_odd_col_4">444.0</td>
+<td class="loss_odd_col_5">-246.0</td>
+</tr>
+<tr class="loss_even last" onclick='window.location="fssl/mock/2024//mock-VOUBC-WKW.html";'>
+<td class="loss_even last_col_1">L</td>
+<td class="loss_even last_col_2">157.0</td>
+<td class="loss_even last_col_3">WKW</td>
+<td class="loss_even last_col_4">485.0</td>
+<td class="loss_even last_col_5">-328.0</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-LDL-TR.html";'>
+<td rowspan="16" class="mock_col_0">LDL</td>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">542.0</td>
+<td class="win_odd_col_3">TR</td>
+<td class="win_odd_col_4">59.0</td>
+<td class="win_odd_col_5">483.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-LDL-WRST.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">412.0</td>
+<td class="win_even_col_3">WRST</td>
+<td class="win_even_col_4">226.0</td>
+<td class="win_even_col_5">186.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-LDL-PVYA.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">382.0</td>
+<td class="win_odd_col_3">PVYA</td>
+<td class="win_odd_col_4">254.0</td>
+<td class="win_odd_col_5">128.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-LDL-VOU.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">383.0</td>
+<td class="win_even_col_3">VOU</td>
+<td class="win_even_col_4">255.0</td>
+<td class="win_even_col_5">128.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-LDL-DB.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">370.0</td>
+<td class="win_odd_col_3">DB</td>
+<td class="win_odd_col_4">257.0</td>
+<td class="win_odd_col_5">113.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-LDL-HHCC.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">345.0</td>
+<td class="win_even_col_3">HHCC</td>
+<td class="win_even_col_4">291.0</td>
+<td class="win_even_col_5">54.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-LDL-RMR.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">343.0</td>
+<td class="win_odd_col_3">RMR</td>
+<td class="win_odd_col_4">299.0</td>
+<td class="win_odd_col_5">44.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-LDL-SR.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">315.0</td>
+<td class="loss_even_col_3">SR</td>
+<td class="loss_even_col_4">323.0</td>
+<td class="loss_even_col_5">-8.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-LDL-BAR.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">308.0</td>
+<td class="loss_odd_col_3">BAR</td>
+<td class="loss_odd_col_4">334.0</td>
+<td class="loss_odd_col_5">-26.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-LDL-VOUBC.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">299.0</td>
+<td class="loss_even_col_3">VOUBC</td>
+<td class="loss_even_col_4">342.0</td>
+<td class="loss_even_col_5">-43.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-LDL-LL.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">262.0</td>
+<td class="loss_odd_col_3">LL</td>
+<td class="loss_odd_col_4">374.0</td>
+<td class="loss_odd_col_5">-112.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-LDL-RSST.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">238.0</td>
+<td class="loss_even_col_3">RSST</td>
+<td class="loss_even_col_4">404.0</td>
+<td class="loss_even_col_5">-166.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-LDL-CH.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">237.0</td>
+<td class="loss_odd_col_3">CH</td>
+<td class="loss_odd_col_4">405.0</td>
+<td class="loss_odd_col_5">-168.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-LDL-FCY.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">215.0</td>
+<td class="loss_even_col_3">FCY</td>
+<td class="loss_even_col_4">425.0</td>
+<td class="loss_even_col_5">-210.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-LDL-HC.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">149.0</td>
+<td class="loss_odd_col_3">HC</td>
+<td class="loss_odd_col_4">493.0</td>
+<td class="loss_odd_col_5">-344.0</td>
+</tr>
+<tr class="loss_even last" onclick='window.location="fssl/mock/2024//mock-LDL-WKW.html";'>
+<td class="loss_even last_col_1">L</td>
+<td class="loss_even last_col_2">100.0</td>
+<td class="loss_even last_col_3">WKW</td>
+<td class="loss_even last_col_4">542.0</td>
+<td class="loss_even last_col_5">-442.0</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-RMR-TR.html";'>
+<td rowspan="16" class="mock_col_0">RMR</td>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">563.0</td>
+<td class="win_odd_col_3">TR</td>
+<td class="win_odd_col_4">67.0</td>
+<td class="win_odd_col_5">496.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-RMR-PVYA.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">376.0</td>
+<td class="win_even_col_3">PVYA</td>
+<td class="win_even_col_4">262.0</td>
+<td class="win_even_col_5">114.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-RMR-WRST.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">379.0</td>
+<td class="win_odd_col_3">WRST</td>
+<td class="win_odd_col_4">262.0</td>
+<td class="win_odd_col_5">117.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-RMR-VOU.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">355.0</td>
+<td class="win_even_col_3">VOU</td>
+<td class="win_even_col_4">283.0</td>
+<td class="win_even_col_5">72.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-RMR-DB.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">333.0</td>
+<td class="win_odd_col_3">DB</td>
+<td class="win_odd_col_4">307.0</td>
+<td class="win_odd_col_5">26.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-RMR-HHCC.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">324.0</td>
+<td class="win_even_col_3">HHCC</td>
+<td class="win_even_col_4">314.0</td>
+<td class="win_even_col_5">10.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-RMR-LDL.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">299.0</td>
+<td class="loss_odd_col_3">LDL</td>
+<td class="loss_odd_col_4">343.0</td>
+<td class="loss_odd_col_5">-44.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-RMR-VOUBC.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">296.0</td>
+<td class="loss_even_col_3">VOUBC</td>
+<td class="loss_even_col_4">346.0</td>
+<td class="loss_even_col_5">-50.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-RMR-SR.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">276.0</td>
+<td class="loss_odd_col_3">SR</td>
+<td class="loss_odd_col_4">366.0</td>
+<td class="loss_odd_col_5">-90.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-RMR-BAR.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">259.0</td>
+<td class="loss_even_col_3">BAR</td>
+<td class="loss_even_col_4">383.0</td>
+<td class="loss_even_col_5">-124.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-RMR-LL.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">238.0</td>
+<td class="loss_odd_col_3">LL</td>
+<td class="loss_odd_col_4">402.0</td>
+<td class="loss_odd_col_5">-164.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-RMR-RSST.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">229.0</td>
+<td class="loss_even_col_3">RSST</td>
+<td class="loss_even_col_4">409.0</td>
+<td class="loss_even_col_5">-180.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-RMR-CH.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">230.0</td>
+<td class="loss_odd_col_3">CH</td>
+<td class="loss_odd_col_4">412.0</td>
+<td class="loss_odd_col_5">-182.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-RMR-FCY.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">177.0</td>
+<td class="loss_even_col_3">FCY</td>
+<td class="loss_even_col_4">465.0</td>
+<td class="loss_even_col_5">-288.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-RMR-HC.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">162.0</td>
+<td class="loss_odd_col_3">HC</td>
+<td class="loss_odd_col_4">480.0</td>
+<td class="loss_odd_col_5">-318.0</td>
+</tr>
+<tr class="loss_even last" onclick='window.location="fssl/mock/2024//mock-RMR-WKW.html";'>
+<td class="loss_even last_col_1">L</td>
+<td class="loss_even last_col_2">129.0</td>
+<td class="loss_even last_col_3">WKW</td>
+<td class="loss_even last_col_4">513.0</td>
+<td class="loss_even last_col_5">-384.0</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-DB-TR.html";'>
+<td rowspan="16" class="mock_col_0">DB</td>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">480.0</td>
+<td class="win_odd_col_3">TR</td>
+<td class="win_odd_col_4">83.0</td>
+<td class="win_odd_col_5">397.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-DB-PVYA.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">324.0</td>
+<td class="win_even_col_3">PVYA</td>
+<td class="win_even_col_4">286.0</td>
+<td class="win_even_col_5">38.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-DB-VOU.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">337.0</td>
+<td class="win_odd_col_3">VOU</td>
+<td class="win_odd_col_4">297.0</td>
+<td class="win_odd_col_5">40.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-DB-WRST.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">333.0</td>
+<td class="win_even_col_3">WRST</td>
+<td class="win_even_col_4">298.0</td>
+<td class="win_even_col_5">35.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-DB-RMR.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">307.0</td>
+<td class="loss_odd_col_3">RMR</td>
+<td class="loss_odd_col_4">333.0</td>
+<td class="loss_odd_col_5">-26.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-DB-HHCC.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">288.0</td>
+<td class="loss_even_col_3">HHCC</td>
+<td class="loss_even_col_4">334.0</td>
+<td class="loss_even_col_5">-46.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-DB-VOUBC.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">272.0</td>
+<td class="loss_odd_col_3">VOUBC</td>
+<td class="loss_odd_col_4">360.0</td>
+<td class="loss_odd_col_5">-88.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-DB-LDL.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">257.0</td>
+<td class="loss_even_col_3">LDL</td>
+<td class="loss_even_col_4">370.0</td>
+<td class="loss_even_col_5">-113.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-DB-SR.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">239.0</td>
+<td class="loss_odd_col_3">SR</td>
+<td class="loss_odd_col_4">379.0</td>
+<td class="loss_odd_col_5">-140.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-DB-BAR.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">247.0</td>
+<td class="loss_even_col_3">BAR</td>
+<td class="loss_even_col_4">390.0</td>
+<td class="loss_even_col_5">-143.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-DB-LL.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">230.0</td>
+<td class="loss_odd_col_3">LL</td>
+<td class="loss_odd_col_4">396.0</td>
+<td class="loss_odd_col_5">-166.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-DB-RSST.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">210.0</td>
+<td class="loss_even_col_3">RSST</td>
+<td class="loss_even_col_4">428.0</td>
+<td class="loss_even_col_5">-218.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-DB-CH.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">195.0</td>
+<td class="loss_odd_col_3">CH</td>
+<td class="loss_odd_col_4">442.0</td>
+<td class="loss_odd_col_5">-247.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-DB-FCY.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">186.0</td>
+<td class="loss_even_col_3">FCY</td>
+<td class="loss_even_col_4">456.0</td>
+<td class="loss_even_col_5">-270.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-DB-HC.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">144.0</td>
+<td class="loss_odd_col_3">HC</td>
+<td class="loss_odd_col_4">497.0</td>
+<td class="loss_odd_col_5">-353.0</td>
+</tr>
+<tr class="loss_even last" onclick='window.location="fssl/mock/2024//mock-DB-WKW.html";'>
+<td class="loss_even last_col_1">L</td>
+<td class="loss_even last_col_2">109.0</td>
+<td class="loss_even last_col_3">WKW</td>
+<td class="loss_even last_col_4">529.0</td>
+<td class="loss_even last_col_5">-420.0</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-HHCC-TR.html";'>
+<td rowspan="16" class="mock_col_0">HHCC</td>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">506.0</td>
+<td class="win_odd_col_3">TR</td>
+<td class="win_odd_col_4">91.0</td>
+<td class="win_odd_col_5">415.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-HHCC-WRST.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">362.0</td>
+<td class="win_even_col_3">WRST</td>
+<td class="win_even_col_4">277.0</td>
+<td class="win_even_col_5">85.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-HHCC-DB.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">334.0</td>
+<td class="win_odd_col_3">DB</td>
+<td class="win_odd_col_4">288.0</td>
+<td class="win_odd_col_5">46.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-HHCC-PVYA.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">320.0</td>
+<td class="win_even_col_3">PVYA</td>
+<td class="win_even_col_4">308.0</td>
+<td class="win_even_col_5">12.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-HHCC-RMR.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">314.0</td>
+<td class="loss_odd_col_3">RMR</td>
+<td class="loss_odd_col_4">324.0</td>
+<td class="loss_odd_col_5">-10.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-HHCC-VOU.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">303.0</td>
+<td class="loss_even_col_3">VOU</td>
+<td class="loss_even_col_4">327.0</td>
+<td class="loss_even_col_5">-24.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-HHCC-SR.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">305.0</td>
+<td class="loss_odd_col_3">SR</td>
+<td class="loss_odd_col_4">332.0</td>
+<td class="loss_odd_col_5">-27.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-HHCC-LDL.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">291.0</td>
+<td class="loss_even_col_3">LDL</td>
+<td class="loss_even_col_4">345.0</td>
+<td class="loss_even_col_5">-54.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-HHCC-BAR.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">290.0</td>
+<td class="loss_odd_col_3">BAR</td>
+<td class="loss_odd_col_4">351.0</td>
+<td class="loss_odd_col_5">-61.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-HHCC-LL.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">258.0</td>
+<td class="loss_even_col_3">LL</td>
+<td class="loss_even_col_4">380.0</td>
+<td class="loss_even_col_5">-122.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-HHCC-VOUBC.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">254.0</td>
+<td class="loss_odd_col_3">VOUBC</td>
+<td class="loss_odd_col_4">385.0</td>
+<td class="loss_odd_col_5">-131.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-HHCC-RSST.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">238.0</td>
+<td class="loss_even_col_3">RSST</td>
+<td class="loss_even_col_4">390.0</td>
+<td class="loss_even_col_5">-152.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-HHCC-CH.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">213.0</td>
+<td class="loss_odd_col_3">CH</td>
+<td class="loss_odd_col_4">428.0</td>
+<td class="loss_odd_col_5">-215.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-HHCC-FCY.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">189.0</td>
+<td class="loss_even_col_3">FCY</td>
+<td class="loss_even_col_4">452.0</td>
+<td class="loss_even_col_5">-263.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-HHCC-HC.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">176.0</td>
+<td class="loss_odd_col_3">HC</td>
+<td class="loss_odd_col_4">465.0</td>
+<td class="loss_odd_col_5">-289.0</td>
+</tr>
+<tr class="loss_even last" onclick='window.location="fssl/mock/2024//mock-HHCC-WKW.html";'>
+<td class="loss_even last_col_1">L</td>
+<td class="loss_even last_col_2">133.0</td>
+<td class="loss_even last_col_3">WKW</td>
+<td class="loss_even last_col_4">509.0</td>
+<td class="loss_even last_col_5">-376.0</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-VOU-TR.html";'>
+<td rowspan="16" class="mock_col_0">VOU</td>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">512.0</td>
+<td class="win_odd_col_3">TR</td>
+<td class="win_odd_col_4">81.0</td>
+<td class="win_odd_col_5">431.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-VOU-HHCC.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">327.0</td>
+<td class="win_even_col_3">HHCC</td>
+<td class="win_even_col_4">303.0</td>
+<td class="win_even_col_5">24.0</td>
+</tr>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-VOU-WRST.html";'>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">337.0</td>
+<td class="win_odd_col_3">WRST</td>
+<td class="win_odd_col_4">304.0</td>
+<td class="win_odd_col_5">33.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-VOU-PVYA.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">319.0</td>
+<td class="win_even_col_3">PVYA</td>
+<td class="win_even_col_4">308.0</td>
+<td class="win_even_col_5">11.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-VOU-DB.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">297.0</td>
+<td class="loss_odd_col_3">DB</td>
+<td class="loss_odd_col_4">337.0</td>
+<td class="loss_odd_col_5">-40.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-VOU-VOUBC.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">284.0</td>
+<td class="loss_even_col_3">VOUBC</td>
+<td class="loss_even_col_4">348.0</td>
+<td class="loss_even_col_5">-64.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-VOU-RMR.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">283.0</td>
+<td class="loss_odd_col_3">RMR</td>
+<td class="loss_odd_col_4">355.0</td>
+<td class="loss_odd_col_5">-72.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-VOU-SR.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">268.0</td>
+<td class="loss_even_col_3">SR</td>
+<td class="loss_even_col_4">371.0</td>
+<td class="loss_even_col_5">-103.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-VOU-LDL.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">255.0</td>
+<td class="loss_odd_col_3">LDL</td>
+<td class="loss_odd_col_4">383.0</td>
+<td class="loss_odd_col_5">-128.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-VOU-BAR.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">249.0</td>
+<td class="loss_even_col_3">BAR</td>
+<td class="loss_even_col_4">391.0</td>
+<td class="loss_even_col_5">-142.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-VOU-LL.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">218.0</td>
+<td class="loss_odd_col_3">LL</td>
+<td class="loss_odd_col_4">415.0</td>
+<td class="loss_odd_col_5">-197.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-VOU-RSST.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">216.0</td>
+<td class="loss_even_col_3">RSST</td>
+<td class="loss_even_col_4">416.0</td>
+<td class="loss_even_col_5">-200.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-VOU-CH.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">196.0</td>
+<td class="loss_odd_col_3">CH</td>
+<td class="loss_odd_col_4">442.0</td>
+<td class="loss_odd_col_5">-246.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-VOU-FCY.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">195.0</td>
+<td class="loss_even_col_3">FCY</td>
+<td class="loss_even_col_4">444.0</td>
+<td class="loss_even_col_5">-249.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-VOU-HC.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">166.0</td>
+<td class="loss_odd_col_3">HC</td>
+<td class="loss_odd_col_4">476.0</td>
+<td class="loss_odd_col_5">-310.0</td>
+</tr>
+<tr class="loss_even last" onclick='window.location="fssl/mock/2024//mock-VOU-WKW.html";'>
+<td class="loss_even last_col_1">L</td>
+<td class="loss_even last_col_2">141.0</td>
+<td class="loss_even last_col_3">WKW</td>
+<td class="loss_even last_col_4">500.0</td>
+<td class="loss_even last_col_5">-359.0</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-PVYA-TR.html";'>
+<td rowspan="16" class="mock_col_0">PVYA</td>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">489.0</td>
+<td class="win_odd_col_3">TR</td>
+<td class="win_odd_col_4">106.0</td>
+<td class="win_odd_col_5">383.0</td>
+</tr>
+<tr class="win_even" onclick='window.location="fssl/mock/2024//mock-PVYA-WRST.html";'>
+<td class="win_even_col_1">W</td>
+<td class="win_even_col_2">342.0</td>
+<td class="win_even_col_3">WRST</td>
+<td class="win_even_col_4">299.0</td>
+<td class="win_even_col_5">43.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-PVYA-VOU.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">308.0</td>
+<td class="loss_odd_col_3">VOU</td>
+<td class="loss_odd_col_4">319.0</td>
+<td class="loss_odd_col_5">-11.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-PVYA-HHCC.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">308.0</td>
+<td class="loss_even_col_3">HHCC</td>
+<td class="loss_even_col_4">320.0</td>
+<td class="loss_even_col_5">-12.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-PVYA-DB.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">286.0</td>
+<td class="loss_odd_col_3">DB</td>
+<td class="loss_odd_col_4">324.0</td>
+<td class="loss_odd_col_5">-38.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-PVYA-SR.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">279.0</td>
+<td class="loss_even_col_3">SR</td>
+<td class="loss_even_col_4">349.0</td>
+<td class="loss_even_col_5">-70.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-PVYA-VOUBC.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">282.0</td>
+<td class="loss_odd_col_3">VOUBC</td>
+<td class="loss_odd_col_4">357.0</td>
+<td class="loss_odd_col_5">-75.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-PVYA-RMR.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">262.0</td>
+<td class="loss_even_col_3">RMR</td>
+<td class="loss_even_col_4">376.0</td>
+<td class="loss_even_col_5">-114.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-PVYA-LDL.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">254.0</td>
+<td class="loss_odd_col_3">LDL</td>
+<td class="loss_odd_col_4">382.0</td>
+<td class="loss_odd_col_5">-128.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-PVYA-BAR.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">259.0</td>
+<td class="loss_even_col_3">BAR</td>
+<td class="loss_even_col_4">383.0</td>
+<td class="loss_even_col_5">-124.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-PVYA-LL.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">247.0</td>
+<td class="loss_odd_col_3">LL</td>
+<td class="loss_odd_col_4">388.0</td>
+<td class="loss_odd_col_5">-141.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-PVYA-FCY.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">216.0</td>
+<td class="loss_even_col_3">FCY</td>
+<td class="loss_even_col_4">425.0</td>
+<td class="loss_even_col_5">-209.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-PVYA-CH.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">209.5</td>
+<td class="loss_odd_col_3">CH</td>
+<td class="loss_odd_col_4">428.5</td>
+<td class="loss_odd_col_5">-219.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-PVYA-RSST.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">198.0</td>
+<td class="loss_even_col_3">RSST</td>
+<td class="loss_even_col_4">434.0</td>
+<td class="loss_even_col_5">-236.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-PVYA-HC.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">158.0</td>
+<td class="loss_odd_col_3">HC</td>
+<td class="loss_odd_col_4">484.0</td>
+<td class="loss_odd_col_5">-326.0</td>
+</tr>
+<tr class="loss_even last" onclick='window.location="fssl/mock/2024//mock-PVYA-WKW.html";'>
+<td class="loss_even last_col_1">L</td>
+<td class="loss_even last_col_2">112.0</td>
+<td class="loss_even last_col_3">WKW</td>
+<td class="loss_even last_col_4">530.0</td>
+<td class="loss_even last_col_5">-418.0</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="win_odd" onclick='window.location="fssl/mock/2024//mock-WRST-TR.html";'>
+<td rowspan="16" class="mock_col_0">WRST</td>
+<td class="win_odd_col_1">W</td>
+<td class="win_odd_col_2">532.0</td>
+<td class="win_odd_col_3">TR</td>
+<td class="win_odd_col_4">94.0</td>
+<td class="win_odd_col_5">438.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-WRST-DB.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">298.0</td>
+<td class="loss_even_col_3">DB</td>
+<td class="loss_even_col_4">333.0</td>
+<td class="loss_even_col_5">-35.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-WRST-VOU.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">304.0</td>
+<td class="loss_odd_col_3">VOU</td>
+<td class="loss_odd_col_4">337.0</td>
+<td class="loss_odd_col_5">-33.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-WRST-PVYA.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">299.0</td>
+<td class="loss_even_col_3">PVYA</td>
+<td class="loss_even_col_4">342.0</td>
+<td class="loss_even_col_5">-43.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-WRST-HHCC.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">277.0</td>
+<td class="loss_odd_col_3">HHCC</td>
+<td class="loss_odd_col_4">362.0</td>
+<td class="loss_odd_col_5">-85.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-WRST-RMR.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">262.0</td>
+<td class="loss_even_col_3">RMR</td>
+<td class="loss_even_col_4">379.0</td>
+<td class="loss_even_col_5">-117.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-WRST-LDL.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">226.0</td>
+<td class="loss_odd_col_3">LDL</td>
+<td class="loss_odd_col_4">412.0</td>
+<td class="loss_odd_col_5">-186.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-WRST-VOUBC.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">221.0</td>
+<td class="loss_even_col_3">VOUBC</td>
+<td class="loss_even_col_4">421.0</td>
+<td class="loss_even_col_5">-200.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-WRST-LL.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">216.0</td>
+<td class="loss_odd_col_3">LL</td>
+<td class="loss_odd_col_4">422.0</td>
+<td class="loss_odd_col_5">-206.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-WRST-SR.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">205.0</td>
+<td class="loss_even_col_3">SR</td>
+<td class="loss_even_col_4">433.0</td>
+<td class="loss_even_col_5">-228.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-WRST-BAR.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">207.0</td>
+<td class="loss_odd_col_3">BAR</td>
+<td class="loss_odd_col_4">434.0</td>
+<td class="loss_odd_col_5">-227.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-WRST-RSST.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">171.0</td>
+<td class="loss_even_col_3">RSST</td>
+<td class="loss_even_col_4">470.0</td>
+<td class="loss_even_col_5">-299.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-WRST-CH.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">152.0</td>
+<td class="loss_odd_col_3">CH</td>
+<td class="loss_odd_col_4">489.0</td>
+<td class="loss_odd_col_5">-337.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-WRST-HC.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">121.0</td>
+<td class="loss_even_col_3">HC</td>
+<td class="loss_even_col_4">521.0</td>
+<td class="loss_even_col_5">-400.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-WRST-FCY.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">116.0</td>
+<td class="loss_odd_col_3">FCY</td>
+<td class="loss_odd_col_4">526.0</td>
+<td class="loss_odd_col_5">-410.0</td>
+</tr>
+<tr class="loss_even last" onclick='window.location="fssl/mock/2024//mock-WRST-WKW.html";'>
+<td class="loss_even last_col_1">L</td>
+<td class="loss_even last_col_2">78.0</td>
+<td class="loss_even last_col_3">WKW</td>
+<td class="loss_even last_col_4">563.0</td>
+<td class="loss_even last_col_5">-485.0</td>
+</tr>
+</tbody>
+<tbody>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-TR-DB.html";'>
+<td rowspan="16" class="mock_col_0">TR</td>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">83.0</td>
+<td class="loss_odd_col_3">DB</td>
+<td class="loss_odd_col_4">480.0</td>
+<td class="loss_odd_col_5">-397.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-TR-PVYA.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">106.0</td>
+<td class="loss_even_col_3">PVYA</td>
+<td class="loss_even_col_4">489.0</td>
+<td class="loss_even_col_5">-383.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-TR-HHCC.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">91.0</td>
+<td class="loss_odd_col_3">HHCC</td>
+<td class="loss_odd_col_4">506.0</td>
+<td class="loss_odd_col_5">-415.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-TR-VOU.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">81.0</td>
+<td class="loss_even_col_3">VOU</td>
+<td class="loss_even_col_4">512.0</td>
+<td class="loss_even_col_5">-431.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-TR-VOUBC.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">36.0</td>
+<td class="loss_odd_col_3">VOUBC</td>
+<td class="loss_odd_col_4">532.0</td>
+<td class="loss_odd_col_5">-496.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-TR-WRST.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">94.0</td>
+<td class="loss_even_col_3">WRST</td>
+<td class="loss_even_col_4">532.0</td>
+<td class="loss_even_col_5">-438.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-TR-LDL.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">59.0</td>
+<td class="loss_odd_col_3">LDL</td>
+<td class="loss_odd_col_4">542.0</td>
+<td class="loss_odd_col_5">-483.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-TR-SR.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">44.0</td>
+<td class="loss_even_col_3">SR</td>
+<td class="loss_even_col_4">557.0</td>
+<td class="loss_even_col_5">-513.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-TR-RMR.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">67.0</td>
+<td class="loss_odd_col_3">RMR</td>
+<td class="loss_odd_col_4">563.0</td>
+<td class="loss_odd_col_5">-496.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-TR-LL.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">36.0</td>
+<td class="loss_even_col_3">LL</td>
+<td class="loss_even_col_4">572.0</td>
+<td class="loss_even_col_5">-536.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-TR-RSST.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">37.0</td>
+<td class="loss_odd_col_3">RSST</td>
+<td class="loss_odd_col_4">586.0</td>
+<td class="loss_odd_col_5">-549.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-TR-BAR.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">34.0</td>
+<td class="loss_even_col_3">BAR</td>
+<td class="loss_even_col_4">590.0</td>
+<td class="loss_even_col_5">-556.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-TR-CH.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">29.0</td>
+<td class="loss_odd_col_3">CH</td>
+<td class="loss_odd_col_4">600.0</td>
+<td class="loss_odd_col_5">-571.0</td>
+</tr>
+<tr class="loss_even" onclick='window.location="fssl/mock/2024//mock-TR-WKW.html";'>
+<td class="loss_even_col_1">L</td>
+<td class="loss_even_col_2">33.0</td>
+<td class="loss_even_col_3">WKW</td>
+<td class="loss_even_col_4">603.0</td>
+<td class="loss_even_col_5">-570.0</td>
+</tr>
+<tr class="loss_odd" onclick='window.location="fssl/mock/2024//mock-TR-HC.html";'>
+<td class="loss_odd_col_1">L</td>
+<td class="loss_odd_col_2">30.0</td>
+<td class="loss_odd_col_3">HC</td>
+<td class="loss_odd_col_4">605.0</td>
+<td class="loss_odd_col_5">-575.0</td>
+</tr>
+<tr class="loss_even last" onclick='window.location="fssl/mock/2024//mock-TR-FCY.html";'>
+<td class="loss_even last_col_1">L</td>
+<td class="loss_even last_col_2">22.0</td>
+<td class="loss_even last_col_3">FCY</td>
+<td class="loss_even last_col_4">609.0</td>
+<td class="loss_even last_col_5">-587.0</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="sidebar"><ul id="sidebar"></ul></div>
+<div class="clear"></div>
+</div>
+</div>
+<div id="footer">Updated 08/02/2024 @ 11:17:08</div>
+</div>
+<script src="/js/jquery.min.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script><script src="http://www.preludels.com/prelude-browser-min.js"></script><script>var prelude = require('prelude-ls');</script>
+</body>
+</html>
