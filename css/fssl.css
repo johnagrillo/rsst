@@ -426,7 +426,7 @@ tr.win_even {
   background-color: #90EE90; }
 
 tr.loss_odd {
-  background-color: #aaaaaa; }
+  background-color: #ff9999; }
 
 tr.loss_even {
   background-color: #ffcccc; }
